@@ -1,5 +1,5 @@
 # Food City
-Este es un proyecto para practicar React y Tailwind CSS. Consiste en un template genérico para una página web de delvery, en el que se puede filtrar productos a través de su categoría o su precio. Este proyecto utiliza flexbox y grid para lograr un diseño receptivo y cuenta con estilos personalizados creados con Tailwind CSS. Además, se simula una respuesta de API utilizando datos e imágenes extraídos de un archivo data.js. 
+Este proyecto emplea React y Tailwind CSS. Consiste en un template genérico para una página web de delvery, en el que se puede filtrar productos a través de su categoría o su precio. Este proyecto utiliza flexbox y grid para lograr un diseño receptivo y cuenta con estilos personalizados creados con Tailwind CSS. Además, se simula una respuesta de API utilizando datos e imágenes extraídos de un archivo data.js. 
 
 ## Características principales
 
@@ -9,7 +9,7 @@ Este es un proyecto para practicar React y Tailwind CSS. Consiste en un template
 ## Tutorial de Code Commerce
 Este proyecto fue creado siguiendo el tutorial del canal de YouTube “Code Commerce”, el cual proporcionó instrucciones paso a paso para construir el template de página web. Puedes encontrar el tutorial [aquí](https://www.youtube.com/watch?v=GDd2c70gsxE&list=PLaPfwr_iF3CZ-WHJQFeHD0aZaJJDg-M7K&index=42 "aquí")
 
-Agradezco a Clint Briley por compartir su conocimiento y permitirnos aprender y practicar React a través de este proyecto.
+Agradezco a Clint Briley por compartir su conocimiento y permitirme aprender y practicar React a través de este proyecto.
 
 ## Instalación y configuración
 
